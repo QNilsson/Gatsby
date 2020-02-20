@@ -1,7 +1,7 @@
 ---
-title: New Beginnings
+title: Me and My Life
 date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Hello all! I am new to Gatsby and am surprised I was able to figure this all out! Good job Quinn! Do you see who is in my profile pic? Its me and my cute husband. 
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
