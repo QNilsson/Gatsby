@@ -1,13 +1,11 @@
 ---
-title: My Second Post!
+title: Quinn's cool Dog!
 date: "2015-05-06T23:46:37.121Z"
 ---
 
-Wow! I love blogging so much already.
+My dog's name is Spud, he is amazing
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
+He is a cattle dog mixed breed. He loves to bark and play tug-of-war. He is also autistic, he doesn't know how to play with other dogs. He loves treats though, treats are his best friends. 
 ([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
 
 Yeah, I didn't either.
